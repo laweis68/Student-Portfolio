@@ -9,7 +9,7 @@ Objective: To analyze the ethical implications of TikTok’s data privacy practi
 Project Link: https://malayancollegesmindanaoo365-my.sharepoint.com/:f:/g/personal/lcmagdamo_mcm_edu_ph/EsexA2t72K1DkLcU8Km2vUgB7w6UKWEKBD7KsCSxpZoPeg?e=5Utfgo
 ## 🏆 Certifications
 Below are my certifications related to IS181 and relevant fields:
-- 📜 [Certificate Of Completion Agile Software Development Clean Coding Practices] - ([View Certificate](link-to-certificate))
+- 📜 [Certificate Of Completion Agile Software Development Clean Coding Practices] - ![Certificate](https://github.com/laweis68/Student-Portfolio/blob/f490361b6244498817d6feae7a90693166ba0e4c/clean%20coding%20practices.png)
 - 📜 [Certificate Of Completion Agile Software Development Refactoring] - ([View Certificate](link-to-certificate))
 - 📜 [Certificate Of Completion Understanding the Impact of a Merger for IT Teams] - ([View Certificate](link-to-certificate))
 
