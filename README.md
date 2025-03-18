@@ -11,7 +11,7 @@ Project Link: https://malayancollegesmindanaoo365-my.sharepoint.com/:f:/g/person
 Below are my certifications related to IS181 and relevant fields:
 - 📜 [Certificate Of Completion Agile Software Development Clean Coding Practices]  ![Certificate](https://github.com/laweis68/Student-Portfolio/blob/f490361b6244498817d6feae7a90693166ba0e4c/clean%20coding%20practices.png)
 - 📜 [Certificate Of Completion Agile Software Development Refactoring] ![Certificate](https://github.com/laweis68/Student-Portfolio/blob/636da72803e7e92eaf21eb6d21bc7a155069da5b/refactoring.png)
-- 📜 [Certificate Of Completion Understanding the Impact of a Merger for IT Teams] -  ![Certificate](https://github.com/laweis68/Student-Portfolio/blob/7a0eafa57be53b9baefde36ff45aaf54b72c8018/CertificateOfCompletion_Understanding%20the%20Impact%20of%20a%20Merger%20for%20IT%20Teams.jpg)
+- 📜 [Certificate Of Completion Understanding the Impact of a Merger for IT Teams] ![Certificate](https://github.com/laweis68/Student-Portfolio/blob/7a0eafa57be53b9baefde36ff45aaf54b72c8018/CertificateOfCompletion_Understanding%20the%20Impact%20of%20a%20Merger%20for%20IT%20Teams.jpg)
 
 ## 📢 Connect With Me
 📧 Email: [lcmagdamo@mcm.edu.ph]  
